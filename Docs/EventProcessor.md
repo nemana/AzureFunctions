@@ -1,6 +1,6 @@
 # Creating Event Triggered Azure function
 
-in [previous post](httptrigger.md) we have have created Product services. In this article we will be creating Product Event Processor.
+in [previous post](HttpTrigger.md) we have have created Product services. In this article we will be creating Product Event Processor.
 
 Product event processor will read message from queue and store the data into database.
 
