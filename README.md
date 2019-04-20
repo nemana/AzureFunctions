@@ -77,6 +77,6 @@ We will be creating a simple sample which takes Name and description of product 
 
     ![N|Solid](image/Queuewithdata.png)
 
-    As next step we will be writting Queue trigger function to save data in database (event branch)
+    As next step we will be writting Queue trigger function to save data in database (event branch). Click on [link](EventProcessor.md)
 
 
