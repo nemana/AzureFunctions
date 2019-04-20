@@ -1,6 +1,6 @@
 # Creating Event Triggered Azure function
 
-in [previous post](readme.md) we have have created Product services. In this article we will be creating Product Event Processor.
+in [previous post](httptrigger.md) we have have created Product services. In this article we will be creating Product Event Processor.
 
 Product event processor will read message from queue and store the data into database.
 
@@ -68,3 +68,5 @@ This will be having sqlDB connection string. This can be Azure SQL DB or your lo
 ```
 
 Next tutorial we will learn about Dependency Injection in Azure Functions.
+
+[link to go to home](/README.md)
