@@ -21,8 +21,8 @@ We will be creating a simple sample which takes Name and description of product 
 * [Azure Storage Queue](https://docs.microsoft.com/en-us/azure/storage/queues/storage-queues-introduction) Storage Message Queue
 
 
-- [Creating Rest endpoint to save data in Queue](docs/HttpTrigger.md)
-- [Creating Event Processor to save queue message to Product Details](docs/EventProcessor.md)
+- [Creating Rest endpoint to save data in Queue](Docs/HttpTrigger.md)
+- [Creating Event Processor to save queue message to Product Details](Docs/EventProcessor.md)
 
 
 
