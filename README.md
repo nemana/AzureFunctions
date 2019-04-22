@@ -24,7 +24,7 @@ We will be creating a simple sample which takes Name and description of product 
 
 - [Creating Rest endpoint to save data in Queue](Docs/HttpTrigger.md)
 - [Creating Event Processor to save queue message to Product Details](Docs/EventProcessor.md)
-- [Dependency Injection in Azure Functions](Docs/DependecyInjection.md)
+- [Dependency Injection in Azure Functions](Docs/DependencyInjection.md)
 
 
 
