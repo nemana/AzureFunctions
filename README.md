@@ -20,7 +20,7 @@ We will be creating a simple sample which takes Name and description of product 
 * Sql Server
 * [Azure Storage Queue](https://docs.microsoft.com/en-us/azure/storage/queues/storage-queues-introduction) Storage Message Queue
 
-* Lets begin with building the application.
+# Lets begin with building the application.
 
 - [Creating Rest endpoint to save data in Queue](Docs/HttpTrigger.md)
 - [Creating Event Processor to save queue message to Product Details](Docs/EventProcessor.md)
